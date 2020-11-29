@@ -222,7 +222,7 @@ input, select, textarea {
   color: #555555; }
 
 a {
-  color: #ce1b28; }
+  color: hsla(0, 77%, 53%, 0.808); }
 
 strong, b {
   color: #555555; }
@@ -259,10 +259,10 @@ button,
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-  -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-  -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+  -moz-transition: background-color 0.4s ease-in-out, box-shadow 0.4s ease-in-out, color 0.4s ease-in-out;
+  -webkit-transition: background-color 0.4s ease-in-out, box-shadow 0.4s ease-in-out, color 0.4s ease-in-out;
+  -ms-transition: background-color 0.4s ease-in-out, box-shadow 0.4s ease-in-out, color 0.4s ease-in-out;
+  transition: background-color 0.4s ease-in-out, box-shadow 0.4s ease-in-out, color 0.4s ease-in-out;
   border: 0;
   border-radius: 4px;
   cursor: pointer;
@@ -790,8 +790,8 @@ table.alt tbody tr td {
       width: calc(100% + 1rem); } }
 
 .highlights .content {
-  background: #ffffff;
-  box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.025); }
+  background: #e7e7e785;
+  box-shadow: 0px 0px 4px 1px rgba(128, 69, 69, 0.671); }
 
 /* Testimonials */
 .testimonials {
@@ -2775,10 +2775,10 @@ body {
           border-top: 0; }
   #menu .close {
     text-decoration: none;
-    -moz-transition: color 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out;
-    transition: color 0.2s ease-in-out;
+    -moz-transition: color 0.3s ease-in-out;
+    -webkit-transition: color 0.3s ease-in-out;
+    -ms-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     border: 0;
     color: rgba(255, 255, 255, 0.4);
